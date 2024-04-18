@@ -14,10 +14,11 @@
 </picture>
 
 ## My projects
-### [GDClone](https://github.com/opstic/gdclone)
 <a href="https://github.com/opstic/gdclone">
   <img src="https://github.com/opstic/gdclone/blob/main/assets/branding/banner.png" width="50%" align="right" alt="GDClone">
 </a>
+
+### [GDClone](https://github.com/opstic/gdclone)
 
 An attempted replica of Geometry Dash, currently the most accurate.
 
