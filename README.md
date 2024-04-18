@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Opstic!
 
-<img src="https://skillicons.dev/icons?i=rust,cpp,java,py,ts,js,html,css,wasm,svelte,tailwind,bash,clion,idea,webstorm,androidstudio,blender,ae,pr,ps&perline=7" align="right">
+<img src="https://skillicons.dev/icons?i=rust,cpp,java,py,ts,js,html,css,wasm,svelte,tailwind,bash,clion,idea,webstorm,androidstudio,blender,ae,pr,ps&perline=6" align="right">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=opstic&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
