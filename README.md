@@ -3,14 +3,14 @@
 <img src="https://skillicons.dev/icons?i=rust,cpp,java,py,ts,js,wasm,html,css,svelte,tailwind,bash,clion,idea,webstorm,androidstudio,blender,ae,pr,ps&perline=6" align="right">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=opstic&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=opstic&show_icons=true&count_private=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=opstic&show_icons=true&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=opstic&show_icons=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=opstic&show_icons=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=opstic&show_icons=true&count_private=true" />
 </picture>
 
 ## My projects
